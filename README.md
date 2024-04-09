@@ -25,15 +25,3 @@ This project implements a real-time hand gesture recognition system using comput
 6. **Adjustments:**
    - Feel free to modify the code to experiment with different machine learning models, data collection techniques, or gesture recognition algorithms.
 
-### Requirements
-- Python 3.x
-- OpenCV
-- Mediapipe
-- Scikit-learn
-- Matplotlib (optional)
-
-### Credits
-This project utilizes the MediaPipe library developed by Google for hand tracking, as well as scikit-learn for machine learning tasks.
-
-### License
-This project is licensed under the [MIT License](LICENSE).
